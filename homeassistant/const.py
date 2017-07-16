@@ -360,7 +360,7 @@ SERVICE_STOP_COVER_TILT = 'stop_cover_tilt'
 SERVICE_SELECT_OPTION = 'select_option'
 
 # #### API / REMOTE ####
-SERVER_PORT = 
+SERVER_PORT = 5000
 
 URL_ROOT = '/'
 URL_API = '/api/'
